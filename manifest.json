@@ -13,5 +13,8 @@
     "browser_action": {
         "default_icon": "icon.png",
         "default_title": "PDF_Plus: Download multiple PDF files!"
-    }
+    },
+    "permissions": [
+        "downloads"
+    ]
 }
